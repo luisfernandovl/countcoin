@@ -1,0 +1,193 @@
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\bin\Debug\CountCoin.exe.config
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\bin\Debug\CountCoin.exe
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\bin\Debug\CountCoin.pdb
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\obj\Debug\CountCoin.csprojAssemblyReference.cache
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereSalario.resources
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\obj\Debug\CountCoin.frmMenu.resources
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\obj\Debug\CountCoin.Properties.Resources.resources
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.GenerateResource.cache
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\obj\Debug\CountCoin.exe
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\obj\Debug\CountCoin.pdb
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereDividas.resources
+C:\Users\Luís Fernando\Desktop\Calma ai\CountCoin\CountCoin\obj\Debug\CountCoin.frmInserePagDividas.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.csprojAssemblyReference.cache
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereDividas.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmInserePagDividas.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereSalario.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmMenu.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmPerfil.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.Properties.Resources.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.GenerateResource.cache
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.exe
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.pdb
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\bin\Debug\CountCoin.exe.config
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\bin\Debug\CountCoin.exe
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\bin\Debug\CountCoin.pdb
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmConfigs.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmGrafDividas.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmLogin.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmSplashScreen.resources
+C:\Users\Luís Fernando\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmCadastro.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\CountCoin.exe.config
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\CountCoin.exe
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\CountCoin.pdb
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\Npgsql.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Buffers.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Memory.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Text.Json.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.ValueTuple.dll
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\Npgsql.pdb
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\Npgsql.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Buffers.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Memory.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Text.Json.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\bin\Debug\System.ValueTuple.xml
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.csprojAssemblyReference.cache
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmCadastro.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmConfigs.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmGrafDividas.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereDividas.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmInserePagDividas.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereSalario.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmLogin.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmMenu.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmPerfil.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmSplashScreen.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.Properties.Resources.resources
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.GenerateResource.cache
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.CopyComplete
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.exe
+C:\Users\Luís Fernando\Desktop\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.pdb
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\CountCoin.exe.config
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\CountCoin.exe
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\CountCoin.pdb
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\Npgsql.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Buffers.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Memory.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Text.Json.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.ValueTuple.dll
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\Npgsql.pdb
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\Npgsql.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Buffers.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Memory.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Text.Json.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\bin\Debug\System.ValueTuple.xml
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.csprojAssemblyReference.cache
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmCadastro.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmConfigs.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmGrafDividas.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereDividas.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmInserePagDividas.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereSalario.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmLogin.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmMenu.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmPerfil.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.frmSplashScreen.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.Properties.Resources.resources
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.GenerateResource.cache
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.CopyComplete
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.exe
+C:\Users\Luís Fernando\Documents\Luís\Projetos\CountCoin\CountCoin\obj\Debug\CountCoin.pdb
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\CountCoin.exe.config
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\CountCoin.exe
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\CountCoin.pdb
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\Npgsql.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Buffers.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Memory.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Text.Json.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.ValueTuple.dll
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\Npgsql.pdb
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\Npgsql.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Buffers.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Memory.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Text.Json.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\bin\Debug\System.ValueTuple.xml
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmCadastro.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmConfigs.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmGrafDividas.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereDividas.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmInserePagDividas.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereSalario.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmLogin.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmMenu.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmPerfil.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.frmSplashScreen.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.Properties.Resources.resources
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.CopyComplete
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.exe
+C:\Users\Luis\Desktop\MeusProjetos\CountCoin\CountCoin\CountCoin\obj\Debug\CountCoin.pdb
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\CountCoin.exe.config
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\CountCoin.exe
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\CountCoin.pdb
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\Npgsql.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Buffers.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Memory.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Text.Json.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.ValueTuple.dll
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\Npgsql.pdb
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\Npgsql.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Buffers.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Memory.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Text.Json.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\bin\Debug\System.ValueTuple.xml
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmCadastro.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmConfigs.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmGrafDividas.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereDividas.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmInserePagDividas.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmInsereSalario.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmLogin.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmMenu.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmPerfil.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.frmSplashScreen.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.Properties.Resources.resources
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.csproj.CopyComplete
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.exe
+C:\Users\Luis\Desktop\CountCoin\CountCoin\obj\Debug\CountCoin.pdb
